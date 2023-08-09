@@ -1,0 +1,22 @@
+{
+  "name": "ultimo-quizz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BMA1656/ultimo-quizz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BMA1656/ultimo-quizz/issues"
+  },
+  "homepage": "https://github.com/BMA1656/ultimo-quizz#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
